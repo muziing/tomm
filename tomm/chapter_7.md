@@ -1,5 +1,26 @@
 # 第7章 机械的运转及其速度波动的调节
 
+## 7-1概述
+
+应设法将机械运转速度波动的程度限制在许可的范围之内。
+
+
+
+**机械运转的三个阶段**:
+
+1. 启动阶段（starting period of machinery）
+2. 稳定运转阶段（steady motion period of machinery）
+   - 平均角速度 $$\omega_m$$ 保持为一个常数
+   - 角速度 $$\omega$$ 一般周期性波动
+   - 机械的一个运动循环：机械原动件角速度变化的一个周期
+3. 停车阶段（stopping period of machinery）
+
+
+
+机械特性（mechanical behavior）：各种原动机的作用力/力矩与其运动参数（位移、速度）之间的关系
+
+
+
 ## 7-4稳定运转状态下机械的周期性速度波动及其调节
 
 盈功（increment of work）
