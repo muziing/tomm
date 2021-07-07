@@ -1,0 +1,26 @@
+{
+    "root": "./tomm",
+    "plugins": [
+        "-sharing",
+        "katex",
+        "chapter-fold",
+        "expandable-chapters",
+        "back-to-top-button",
+        "splitter",
+        "-search",
+        "-lunr", 
+        "search-pro",
+        "custom-favicon"
+    ],
+    "pluginsConfig": {
+        "favicon":"file/favicon.ico"
+    },
+    "author": "muzing",
+    "title" : "机械原理知识点整理",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            
+        }
+    }
+}
