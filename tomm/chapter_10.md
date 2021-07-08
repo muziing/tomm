@@ -75,6 +75,25 @@
 
 特性
 
+**渐开线方程式**：
+
+- 压力角 $$\alpha_K$$
+  $$
+  \cos \alpha_k = r_b / r_k
+  $$
+
+
+
+**渐开线函数**:
+
+- involute function
+
+- 用 $$inv \alpha_K$$ 表示
+
+$$
+inv \ \alpha_K = \theta_k = \tan\ \alpha_K - \alpha_K
+$$
+
 
 
 **传动的可分性**：渐开线齿廓传动比不受中心距变化的影响
@@ -240,6 +259,14 @@ $$
 
 
 
+**中心距**：
+$$
+a \cos\alpha = a' \cos\alpha'
+$$
+
+
+
+
 **无侧隙啮合方程**（equation of engagement with zero backlash）
 $$
 inv\ \alpha' = 2\tan\alpha(x_1 + x_2) /(z_1 + z_2) + inv\ \alpha
@@ -252,6 +279,20 @@ $$
 - $$x_1$$ $$x_2$$ —— 两轮的变位系数
 
 
+
+**正传动**：
+
+- 减小齿轮机构的尺寸
+- 齿轮机构承载能力有较大提高
+- 重合度减小较多（缺点）
+
+
+
+**负传动**：
+
+- 重合度略有增加
+- 齿轮强度下降
+- 只用于配凑中心距这种特殊需要场合中
 
 
 

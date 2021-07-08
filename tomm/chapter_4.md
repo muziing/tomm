@@ -31,7 +31,7 @@ $$
 
 **转动副中摩擦力的确定**
 
-摩擦圆
+摩擦圆（circle of friction）
 $$
 \rho = f_v r
 $$
