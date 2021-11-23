@@ -25,8 +25,6 @@ ratchet mechanism
 
 ![内棘轮动画](https://oss.muzing.top/image/tomm_内棘轮动画.gif)
 
-
-
 ![双向棘轮机构动画](https://oss.muzing.top/image/tomm_双向棘轮机构动画.gif)
 
 ![单动式棘轮机构动画](https://oss.muzing.top/image/tomm_单动式棘轮机构动画.gif)
