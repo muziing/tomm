@@ -86,9 +86,9 @@ $$
 
 **压力角和传动角**（pressure angle, transmission angle）：
 
-压力角 $$\alpha$$ ：力与速度正方向之间的夹角，越大越好
+压力角 $$\alpha$$ ：力与速度正方向之间的夹角，越小越好
 
-传动角  $$\gamma$$  ：压力角的余角，越小越好
+传动角  $$\gamma$$  ：压力角的余角，越大越好
 
 **死点**（dead point）：
 
